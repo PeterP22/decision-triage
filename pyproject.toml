@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "decision-triage"
+version = "0.1.0"
+description = "Confidence-gated inbox triage: OpenAI Decisions API vs Responses API baselines"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = ["openai>=3.26", "numpy", "matplotlib"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+data = ["datasets"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "scripts"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]

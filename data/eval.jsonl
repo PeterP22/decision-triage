@@ -1,0 +1,700 @@
+{"id": "other-096", "text": "Never y lei... I v lazy... Got wat? Dat day ü send me da url cant work one...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-034", "text": "what do I have to do to cancel purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "orders-030", "text": "show me order {{Order Number}} status", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "spam-048", "text": "You have won ?1,000 cash or a ?2,000 prize! To claim, call09050000327", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-059", "text": "i need assistance sending my feedback for ur services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-012", "text": "Hope you enjoyed your new content. text stop to 61610 to unsubscribe. help:08712400602450p Provided by tones2you.co.uk", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "human_agent-080", "text": "do uhavea toll-free number to speak to customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-067", "text": "modiby data on {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "billing-020", "text": "how can I notify of an error with online payments?", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "dev"}
+{"id": "account-091", "text": "I cannot check the status of my newsletter subscription", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "account-084", "text": "assistance to subscribe to ur newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "human_agent-085", "text": "can I talk with a bloody agent?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-018", "text": "want help modifying my address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "human_agent-016", "text": "want hep to speak with a live agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "other-046", "text": "God picked up a flower and dippeditinaDEW, lovingly touched itwhichturnedinto u, and the he gifted tomeandsaid,THIS FRIEND IS 4U", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-018", "text": "HEY GIRL. HOW R U? HOPE U R WELL ME AN DEL R BAK! AGAIN LONG TIME NO C! GIVE ME A CALL SUM TIME FROM LUCYxx", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-064", "text": "I do not know what I have to do to lodge a reclamation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "other-042", "text": "U so lousy, run already come back then half dead... Hee...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-004", "text": "what do I have to do to change to the {{Account Type}} account?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "account-063", "text": "need assistance with creating a freemium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "other-022", "text": "Loosu go to hospital. De dont let it careless.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "human_agent-096", "text": "I want help speaking to a person", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-077", "text": "I have got to see the cancellation charge, how to do it?", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "human_agent-006", "text": "can I see at what time I can contact customer assistance?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "human_agent-076", "text": "help to see what hours I can contact customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-008", "text": "change details on pro account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "dev"}
+{"id": "human_agent-032", "text": "I want help to talk with a human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-048", "text": "I am waiting for a compensation of  {{Currency Symbol}}{{Refund Amount}}", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "spam-064", "text": "Get 3 Lions England tone, reply lionm 4 mono or lionp 4 poly. 4 more go 2 www.ringtones.co.uk, the original n best. Tones 3GBP network operator rates apply.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-002", "text": "Call Germany for only 1 pence per minute! Call from a fixed line via access number 0844 861 85 85. No prepayment. Direct access!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "orders-096", "text": "can oyu tell me about the shipping period?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "orders-032", "text": "I do not nkow what I have to do to order a few of your item", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "billing-084", "text": "assistance seeing in what cases can i request reimbursements", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "feedback-049", "text": "filing consumer claim against ur organizzation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "spam-023", "text": "FREE for 1st week! No1 Nokia tone 4 ur mobile every week just txt NOKIA to 8077 Get txting and tell ur mates. www.getzed.co.uk POBox 36504 W45WQ 16+ norm150p/tone", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "orders-055", "text": "I have got to see when will my parcel arrive, help me", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "human_agent-098", "text": "i need help to contact an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "other-031", "text": "Ah, well that confuses things, doesnt it? I thought was friends with now. Maybe i did the wrong thing but i already sort of invited -tho he may not come cos of money.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-000", "text": "You have WON a guaranteed £1000 cash or a £2000 prize. To claim yr prize call our customer service representative on 08714712412 between 10am-7pm Cost 10p", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-016", "text": "I want to check in what situations can I request a refund", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "dev"}
+{"id": "spam-095", "text": "For ur chance to win a £250 cash every wk TXT: ACTION to 80608. T's&C's www.movietrivia.tv custcare 08712405022, 1x150p/wk", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-023", "text": "could ya help me to unsubscribe from ur company newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "dev"}
+{"id": "other-071", "text": "Don't forget who owns you and who's private property you are ... And be my good boy always .. *passionate kiss*", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-067", "text": "Yes:)sura in sun tv.:)lol.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-019", "text": "Oh... Okie lor...We go on sat...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-056", "text": "FreeMsg Hey there darling it's been 3 week's now and no word back! I'd like some fun you up for it still? Tb ok! XxX std chgs to send, £1.50 to rcv", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-000", "text": "new platinum acount for wife", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "feedback-056", "text": "where can i lodge a customer reclaation against ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-056", "text": "i need assistance to give a quick look at the invoice #37777", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "billing-068", "text": "help me see your allowed payment options", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "orders-047", "text": "I want help ordering several articlers", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "billing-026", "text": "I lost invoice #00108, will you find it for me?", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "dev"}
+{"id": "human_agent-008", "text": "I would like to speak with goddamn customer  assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "orders-092", "text": "is it possible to ordet from {{Delivery Country}}", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "other-020", "text": "Is that what time you want me to come?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "other-024", "text": "Or u ask they all if next sat can a not. If all of them can make it then i'm ok lor.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "billing-059", "text": "I expect a refund of {{Currency Symbol}}{{Refund Amount}}", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "billing-069", "text": "I don't know what I need to do to download my invoice #85632", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "feedback-005", "text": "how do I make a claim against your company?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-031", "text": "I am trying to find shipping periods, could you help me?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "billing-079", "text": "get invoice #00108", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "other-044", "text": "Ü collecting ur laptop then going to configure da settings izzit?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-095", "text": "is there a method to send feedback for a product?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "feedback-090", "text": "need assistance to file a consumer cclaim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-053", "text": "do you have a way to leave a review for your services?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "account-037", "text": "I need information about a {{Account Category}} account cancellation", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "feedback-045", "text": "do you have a way to submit a review for your services ?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-070", "text": "If you don't, your prize will go to another customer. T&C at www.t-c.biz 18+ 150p/min Polo Ltd Suite 373 London W1J 6HL Please call back if busy", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-090", "text": "help checking my restitution status", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "spam-059", "text": "UpgrdCentre Orange customer, you may now claim your FREE CAMERA PHONE upgrade for your loyalty. Call now on 0207 153 9153. Offer ends 26th July. T&C's apply. Opt-out available", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-027", "text": "need help setting another shipping address up", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "account-096", "text": "I don't know how to inform of problems with a signup", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "human_agent-026", "text": "I don't understand you, help me to chat with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "feedback-027", "text": "the experience with you was awful, file a customer complaint", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-008", "text": "there are troubles editing my address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "billing-072", "text": "i dont know what i need to do to get the bill #12588", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "other-068", "text": "K.k:)i'm going to tirunelvali this week to see my uncle ..i already spend the amount by taking dress .so only i want money.i will give it on feb 1", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-073", "text": "how can isubmit my feedback for ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-024", "text": "dating:i have had two of these. Only started after i sent a text to talk sport radio last week. Any connection do you think or coincidence?", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "other-047", "text": "Mum ask ü to buy food home...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-074", "text": "S...from the training manual it show there is no tech process:)its all about password reset and troubleshooting:)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-092", "text": "i have to check what hours i can reach customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-035", "text": "wanna check at what time i can reach customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "other-030", "text": "HI HUN! IM NOT COMIN 2NITE-TELL EVERY1 IM SORRY 4 ME, HOPE U AVA GOODTIME!OLI RANG MELNITE IFINK IT MITE B SORTED,BUT IL EXPLAIN EVERYTHIN ON MON.L8RS.x", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-025", "text": "Missing you too.pray inshah allah", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-083", "text": "i need help to file a customer claim against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-066", "text": "I want to see the accepted payment methods, can you help me?", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "other-086", "text": "Ok.ok ok..then..whats ur todays plan", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-004", "text": "Well good morning mr . Hows london treatin' ya treacle?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "orders-043", "text": "i dont know how i can shop several of ur article", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "spam-077", "text": "Do you want a NEW video phone750 anytime any network mins 150 text for only five pounds per week call 08000776320 now or reply for delivery tomorrow", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-040", "text": "i have a prolem trying to update my address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "feedback-034", "text": "review for a service", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "feedback-021", "text": "i dont know how i can lodge a claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-028", "text": "why I cannot set up the delivery address valid", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "account-015", "text": "open a {{Account Type}} acount for my dad", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "orders-080", "text": "I need to acquire some products, can I get some help?", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "human_agent-037", "text": "how to see at what time customer support available is?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-042", "text": "i dont know what to do to speak with someone", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-061", "text": "Romantic Paris. 2 nights, 2 flights from £79 Book now 4 next year. Call 08704439680Ts&Cs apply.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-087", "text": "And that's fine, I got enough bud to last most of the night at least", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-012", "text": "is it plssible to order from {{Delivery Country}}?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "dev"}
+{"id": "other-045", "text": "Yes..he is really great..bhaji told kallis best cricketer after sachin in world:).very tough to get out.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-046", "text": "I'm calling to lodge a claim against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "spam-078", "text": "okmail: Dear Dave this is your final notice to collect your 4* Tenerife Holiday or #5000 CASH award! Call 09061743806 from landline. TCs SAE Box326 CW25WX 150ppm", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-014", "text": "i dont know how to ask for compensations of money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "dev"}
+{"id": "feedback-000", "text": "how can i file a reclamation against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "feedback-038", "text": "I don't know how to lodge a condumer reclamation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "other-094", "text": "Helloooo... Wake up..! \"Sweet\" \"morning\" \"welcomes\" \"You\" \"Enjoy\" \"This Day\" \"with full of joy\".. \"GUD MRNG\".", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-014", "text": "i need assistance to leave a review about a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "human_agent-083", "text": "can I see at what time I can call customer assistance?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-066", "text": "IMPORTANT MESSAGE. This is a final contact attempt. You have important messages waiting out our customer claims dept. Expires 13/4/04. Call 08717507382 NOW!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-094", "text": "see the available payment options", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "billing-081", "text": "how to check what payment options are available", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "other-051", "text": "Yalru lyfu astne chikku.. Bt innu mundhe lyf ali halla ke bilo (marriage)program edhae, so lyf is nt yet ovr chikku..ali vargu lyfu meow meow:-D", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-078", "text": "how to reset the access key of my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "human_agent-024", "text": "I try to speak with someone", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "account-064", "text": "i need assistance restoring the key of my profile", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "billing-043", "text": "i dont know what to do to locate my bill #37777", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "orders-099", "text": "remove something from order", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "other-041", "text": "My mobile number.pls sms ur mail id.convey regards to achan,amma.Rakhesh.Qatar", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-070", "text": "I cannot update purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "human_agent-097", "text": "i cant chat with an operator", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-078", "text": "purchase {{Order Number}} status", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "human_agent-070", "text": "I need assistance to chat with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "other-052", "text": "Long after I quit. I get on only like 5 minutes a day as it is.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-085", "text": "can uhelp me file a customer reeclamation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "other-048", "text": "Also remember the beads don't come off. Ever.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-062", "text": "I need help with canceling order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "billing-034", "text": "I tryh to check the termination fees", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "feedback-066", "text": "I want to submit my feedback for your products, help me", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-029", "text": "i need assistanceto chat with a live agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "billing-065", "text": "i have got to see ur refund policy can uhelp me", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "spam-041", "text": "We tried to contact you re your reply to our offer of a Video Handset? 750 anytime networks mins? UNLIMITED TEXT? Camcorder? Reply or call 08000930705 NOW", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-048", "text": "I need to lodge a goddamn conplaint against your business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-023", "text": "would it be possible to talk to an operator?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "other-072", "text": "Hanging out with my brother and his family", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-029", "text": "Shop till u Drop, IS IT YOU, either 10K, 5K, £500 Cash or £100 Travel voucher, Call now, 09064011000. NTT PO Box CR01327BT fixedline Cost 150ppm mobile vary", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "human_agent-030", "text": "I don't know what to do to contact an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "human_agent-050", "text": "hopw to contact an agent?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "other-000", "text": "I am taking you for italian food. How about a pretty dress with no panties? :)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "human_agent-094", "text": "I do not know what I have to do to talk wiyh a live agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-096", "text": "U can WIN £100 of Music Gift Vouchers every week starting NOW Txt the word DRAW to 87066 TsCs www.Idew.com SkillGame, 1Winaweek, age16. 150ppermessSubscription", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-056", "text": "i need help to report problems with registrations", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "other-065", "text": "Yes. It's all innocent fun. O:-)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-092", "text": "Someone U know has asked our dating service 2 contact you! Cant Guess who? CALL 09058091854 NOW all will be revealed. PO BOX385 M6 6WU", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-013", "text": "troubles setting up the delivery address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "account-054", "text": "I do not know how I can sign up to the newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "account-026", "text": "notifying of errors creating profile", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "dev"}
+{"id": "other-036", "text": "Hey... are you going to quit soon? Xuhui and i working till end of the month", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-096", "text": "I don't know how I can get a compensation of my money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "human_agent-025", "text": "i do not know what i need to do to talk with a human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "orders-086", "text": "need assistance checking order {{Order Number}} status", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "feedback-076", "text": "want assistance to file a claim against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "orders-046", "text": "I don't know how I can order a few of your article", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "account-095", "text": "I have to cancel my platinum account, how can I do it?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "feedback-037", "text": "can you help me make a clain against your business?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "spam-063", "text": "You are now unsubscribed all services. Get tons of sexy babes or hunks straight to your phone! go to http://gotbabes.co.uk. No subscriptions.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-054", "text": "can i place an order from {{Delivery City}}", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "feedback-069", "text": "I have got to file a customer complaint", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-031", "text": "Iam trying to notify of troubles with online payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "feedback-050", "text": "is there a section to leave some feedack for ur services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "billing-089", "text": "i want help to ask for compensatiuons", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "orders-068", "text": "where can I see when my package is going to arrive?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "orders-024", "text": "I want help to check what options for delivery you offer", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "dev"}
+{"id": "orders-015", "text": "how to see what shipping options I have?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "dev"}
+{"id": "other-039", "text": "Yep. I do like the pink furniture tho.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-071", "text": "what do I need to do to make a goddamn complaint?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "account-066", "text": "can you help me retrieving my account PIN code?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "feedback-078", "text": "assistance leaving my feedback for your services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-090", "text": "I want help talking with a live agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-038", "text": "I need assistance reporting issues with online payments", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "account-089", "text": "I cannot reset my profile PIN", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "feedback-007", "text": "help me submit some feedback about a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "billing-015", "text": "list your accepted payment options", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "dev"}
+{"id": "orders-065", "text": "i want  information about changing the address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "billing-087", "text": "can you help me seeing the cancellation charges?", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "spam-049", "text": "ASKED 3MOBILE IF 0870 CHATLINES INCLU IN FREE MINS. INDIA CUST SERVs SED YES. L8ER GOT MEGA BILL. 3 DONT GIV A SHIT. BAILIFF DUE IN DAYS. I O £250 3 WANT £800", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-023", "text": "i need help to see my compensation status", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "dev"}
+{"id": "account-090", "text": "I have got to inform of problems with registrations, help me", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "orders-001", "text": "wanna track purchase {{Order Number}} will ya help me", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "dev"}
+{"id": "other-037", "text": "alright tyler's got a minor crisis and has to be home sooner than he thought so be here asap", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-058", "text": "assistance to make a claim against ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "spam-097", "text": "FREE camera phones with linerental from 4.49/month with 750 cross ntwk mins. 1/2 price txt bundle deals also avble. Call 08001950382 or call2optout/J MF", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-042", "text": "I want help to check what delivery methods you offer", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "orders-052", "text": "I don't know how I can acquire some fucking articles", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "spam-026", "text": "Congrats 2 mobile 3G Videophones R yours. call 09063458130 now! videochat wid ur mates, play java games, Dload polypH music, noline rentl. bx420. ip4. 5we. 150p", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "orders-075", "text": "remove some items fropm order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "other-056", "text": "Takin a shower now but yeah I'll leave when I'm done", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-086", "text": "I want help to lodge a consumer claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-064", "text": "I don't want to chat with a bot, transfer to me someone", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "feedback-024", "text": "is it possible to make an complaint against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "billing-071", "text": "I need help informing of troubles with online payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "orders-022", "text": "is it possbile to set the secondary shipping address up", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "other-069", "text": "Lol yeah at this point I guess not", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-022", "text": "updating platinum accojnt", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "dev"}
+{"id": "billing-041", "text": "i do not knwo how to see the payment methods", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "other-016", "text": "hey, looks like I was wrong and one of the kappa guys numbers is still on my phone, if you want I can text him and see if he's around", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-006", "text": "How about getting in touch with folks waiting for company? Just txt back your NAME and AGE to opt in! Enjoy the community (150p/SMS)", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-050", "text": "Urgent UR awarded a complimentary trip to EuroDisinc Trav, Aco&Entry41 Or £1000. To claim txt DIS to 87121 18+6*£1.50(moreFrmMob. ShrAcomOrSglSuplt)10, LS1 3AJ", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-005", "text": "If you are not coughing then its nothing", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-067", "text": "I want to file a consumer complaint", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-068", "text": "I don't know what I need to do to talk with an operator", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-021", "text": "help adding an item to purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "dev"}
+{"id": "orders-057", "text": "i want assistance to edit order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "billing-011", "text": "I need to check in which cases can I ask for a reimbursement", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "dev"}
+{"id": "feedback-055", "text": "where do I make a consumer claim against your business?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-097", "text": "I am calling to leave a comment about your compnay", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-062", "text": "URGENT! You have won a 1 week FREE membership in our £100,000 Prize Jackpot! Txt the word: CLAIM to No: 81010 T&C www.dbuk.net LCCLTD POBOX 4403LDNW1A7RW18", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-008", "text": "I'd like to tell you my deepest darkest fantasies. Call me 09094646631 just 60p/min. To stop texts call 08712460324 (nat rate)", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "orders-063", "text": "how to check how soon can I expect my item?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "spam-086", "text": "Welcome to UK-mobile-date this msg is FREE giving you free calling to 08719839835. Future mgs billed at 150p daily. To cancel send \"go stop\" to 89123", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-088", "text": "Buy Space Invaders 4 a chance 2 win orig Arcade Game console. Press 0 for Games Arcade (std WAP charge) See o2.co.uk/games 4 Terms + settings. No purchase", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-076", "text": "I have an erroor trying to change the address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "feedback-002", "text": "want help sending feedback for a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "feedback-088", "text": "I try to make a reclamation against your organization", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "orders-002", "text": "correct order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "dev"}
+{"id": "feedback-077", "text": "i want help sending some feedback about a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "account-049", "text": "what do i have to do to edit my goddamn profile", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "account-027", "text": "I need assistance retrieving the PIN of my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "orders-090", "text": "I purchased some damn product, help me cancel order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "spam-045", "text": "Call 09094100151 to use ur mins! Calls cast 10p/min (mob vary). Service provided by AOM, just GBP5/month. AOM Box61,M60 1ER until u stop. Ages 18+ only!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-071", "text": "i need assistance to order a few of ur prodcut", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "other-009", "text": "Yup i shd haf ard 10 pages if i add figures... Ü all got how many pages?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-003", "text": "<Forwarded from 448712404000>Please CALL 08712404000 immediately as there is an urgent message waiting for you.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-084", "text": "Ur ringtone service has changed! 25 Free credits! Go to club4mobiles.com to choose content now! Stop? txt CLUB STOP to 87070. 150p/wk Club4 PO Box1146 MK45 2WT", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "human_agent-038", "text": "help to check what hours customer assistance available is", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "other-085", "text": "Ya:)going for restaurant..", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-006", "text": "I want assistance requesting a compensation of money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "dev"}
+{"id": "billing-054", "text": "I cannot check the current status of the rebate", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "other-021", "text": "Huh i cant thk of more oredi how many pages do we have?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "account-010", "text": "can you help me using the platinum account?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "billing-070", "text": "need assistance to list ur fucking payment methods", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "human_agent-021", "text": "assistance to talk with bloody customer supprt", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "other-090", "text": "Guessin you ain't gonna be here before 9?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-069", "text": "UR awarded a City Break and could WIN a £200 Summer Shopping spree every WK. Txt STORE to 88039 . SkilGme. TsCs087147403231Winawk!Age16 £1.50perWKsub", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-015", "text": "WIN: We have a winner! Mr. T. Foley won an iPod! More exciting prizes soon, so keep an eye on ur mobile or visit www.win-82050.co.uk", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "feedback-019", "text": "I don't know how I can leave a review", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "feedback-054", "text": "can I submit feedback about your products?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "account-006", "text": "i dont know what to do to recover my account key", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "billing-086", "text": "I want assistance locating the invoices from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "other-017", "text": "I reach home safe n sound liao...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "billing-013", "text": "I have  to see the early termination fee", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "dev"}
+{"id": "spam-028", "text": "Latest News! Police station toilet stolen, cops have nothing to go on!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "human_agent-074", "text": "I don't know how I can speak wih customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-047", "text": "URGENT! We are trying to contact you. Last weekends draw shows that you have won a £900 prize GUARANTEED. Call 09061701939. Claim code S89. Valid 12hrs only", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-088", "text": "Sorry, I'll call later", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-013", "text": "Wat makes some people dearer is not just de happiness dat u feel when u meet them but de pain u feel when u miss dem!!!", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-033", "text": "We tried to contact you re your reply to our offer of 750 mins 150 textand a new video phone call 08002988890 now or reply for free delivery tomorrow", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-037", "text": "how can I notify of problems with online payments?", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "account-014", "text": "I need assistance reecovering my profile PIN code", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "account-052", "text": "i want help to close my {{Account Category}} accouny", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "spam-011", "text": "HOT LIVE FANTASIES call now 08707500020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "account-083", "text": "I need to inform of erors with sign-up", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "account-007", "text": "creating new {{Account Type}} account for daughter", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "human_agent-059", "text": "want help to contact customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "other-035", "text": "Cold. Dont be sad dear", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-002", "text": "creatingnew {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "other-002", "text": "Good afternoon, my boytoy ... How are you feeling today ? Better I hope? Are you being my good boy? Are you my obedient, slave? Do you please your Queen?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "billing-088", "text": "I want help to notify of issues with payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "human_agent-044", "text": "i have to check at what time i can contact custome support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "orders-089", "text": "I have to see when will my product arrive, how to do it?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "other-058", "text": "Onum ela pa. Normal than.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-033", "text": "do you deliver to {{Delivery City}} ?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "human_agent-072", "text": "I can't understand you, assistance speaking to an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "feedback-023", "text": "can I leave a comment about a service?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "spam-018", "text": "Urgent! Please call 0906346330. Your ABTA complimentary 4* Spanish Holiday or £10,000 cash await collection SAE T&Cs BOX 47 PO19 2EZ 150ppm 18+", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-053", "text": "important information 4 orange user 0789xxxxxxx. today is your lucky day!2find out why log onto http://www.urawinner.com THERE'S A FANTASTIC SURPRISE AWAITING YOU!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-093", "text": "need to use the freemium profile can ya help me", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "other-097", "text": "THATS ALRITE GIRL, U KNOW GAIL IS NEVA WRONG!!TAKE CARE SWEET AND DONT WORRY.C U L8TR HUN!LOVE Yaxxx", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-082", "text": "I need to see how soon can I expect my order, help me", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "account-065", "text": "I need help to retrieev my user PIN", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "account-081", "text": "how can I open a platinum account?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "spam-001", "text": "Guess what! Somebody you know secretly fancies you! Wanna find out who it is? Give us a call on 09065394973 from Landline DATEBox1282EssexCM61XN 150p/min 18", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "human_agent-088", "text": "I want assistance talking with a human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-062", "text": "I need to give a quick look at bill #00108", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "feedback-011", "text": "is tere an e-mail to send a comment about a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "spam-074", "text": "Save money on wedding lingerie at www.bridal.petticoatdreams.co.uk Choose from a superb selection with national delivery. Brought to you by WeddingFriend", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-080", "text": "is it possible to submit feedback for ur services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "account-072", "text": "i need assistance restoring the pass of my profile", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "human_agent-034", "text": "I don't know how I can speak to a human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-037", "text": "This msg is for your mobile content order It has been resent as previous attempt failed due to network error Queries to customersqueries@netvision.uk.com", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-009", "text": "need to give a quick look at the invoice from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "dev"}
+{"id": "orders-050", "text": "how can i get information about updating order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "feedback-018", "text": "I want to leave my feedback about a product, help me", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "feedback-006", "text": "I want help leaving my feedback for your products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "human_agent-065", "text": "can you help me to speak to customer assistance?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "orders-045", "text": "can you help me set up my new shipping address?", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "other-098", "text": "Yup it's at paragon... I havent decided whether 2 cut yet... Hee...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-053", "text": "need help to notify of problems with payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "other-073", "text": "And that is the problem. You walk around in \"julianaland\" oblivious to what is going on around you. I say the same things constantly and they go in one ear and out the other while you go off doing whatever you want to do. It's not that you don't know why I'm upset--it's that you don't listen when i tell you WHAT is going to upset me. Then you want to be surprised when I'm mad.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-007", "text": "Sexy Singles are waiting for you! Text your AGE followed by your GENDER as wither M or F E.G.23F. For gay men text your AGE followed by a G. e.g.23G.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "account-058", "text": "i do not know how to unsubscribe to ur corporate newslegter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "human_agent-062", "text": "I do not know what to do to talk with someone", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-079", "text": "3. You have received your mobile content. Enjoy", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-064", "text": "U meet other fren dun wan meet me ah... Muz b a guy rite...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-037", "text": "need help deleting something from purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "other-001", "text": "Okie.. Thanx..", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "human_agent-046", "text": "I need help to contact a person", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "feedback-052", "text": "I needassistance sending some feedback about your company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "billing-035", "text": "I need to check your reimbursement policy, hbow to do it?", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "human_agent-018", "text": "assistance to see at what time I can reach customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "spam-019", "text": "Summers finally here! Fancy a chat or flirt with sexy singles in yr area? To get MATCHED up just reply SUMMER now. Free 2 Join. OptOut txt STOP Help08714742804", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-080", "text": "would it be possible to locate the invoice from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "feedback-031", "text": "I need to file a customer claim against your business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "account-029", "text": "have a questiin about the removal of a {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "dev"}
+{"id": "human_agent-056", "text": "can you help me to contact somebody?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "human_agent-049", "text": "i have to see at what time i can contact customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-082", "text": "question about the removal of my standard account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "human_agent-067", "text": "help me to contact damn customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-004", "text": "I try to see what hours I can reach customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "other-093", "text": "Don know..he is watching film in computer..", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-078", "text": "I try to talk with an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "human_agent-079", "text": "I don't know how to get in touch with customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-014", "text": "I need help seeing what hours I can call customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "account-012", "text": "correcting data on {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "dev"}
+{"id": "other-083", "text": "If you have belive me. Come to my home.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-043", "text": "Urgent Urgent! We have 800 FREE flights to Europe to give away, call B4 10th Sept & take a friend 4 FREE. Call now to claim on 09050000555. BA128NNFWFLY150ppm", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-067", "text": "cancelling purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "account-033", "text": "report issues with registration", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "account-071", "text": "help to notify of an error with signup", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "human_agent-017", "text": "uhave a free number to get in touch with customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "human_agent-045", "text": "I need assistance to chat with a fucking human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-092", "text": "want help to see the available payment modalities", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "account-040", "text": "i have to cancel the subscription to ur company newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "account-045", "text": "problem with the deletion of a {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "feedback-079", "text": "need to leave feedback for a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "billing-051", "text": "cfan i check the cancellation fees", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "spam-004", "text": "Sorry! U can not unsubscribe yet. THE MOB offer package has a min term of 54 weeks> pls resubmit request after expiry. Reply THEMOB HELP 4 more info", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "account-020", "text": "I have got to create a platinum account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "account-031", "text": "need help to report problems with a registratoon", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "other-054", "text": "Okay lor... Wah... like that def they wont let us go... Haha... What did they say in the terms and conditions?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-060", "text": "I need help contacting customerservice", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-082", "text": "i do not understand anything ya say direct tome someone", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-061", "text": "see in what situations can I request a reimbursement", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "orders-074", "text": "i wqant assistance checking purchase {{Order Number}} status", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "orders-016", "text": "I need help trying to edit the shipping address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "orders-060", "text": "i have to check how long the shipment takes", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "account-042", "text": "how to use the standard account?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "billing-073", "text": "assistance seeing in what cases can I ask to be reimbursed", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "human_agent-027", "text": "can I talk to customer service?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "human_agent-052", "text": "can you help me talk with customer support?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-050", "text": "need assistance subscribing to your newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "account-046", "text": "can you help me to change the information on my profile?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "spam-073", "text": "74355 XMAS iscoming & ur awarded either £500 CD gift vouchers & free entry 2 r £100 weekly draw txt MUSIC to 87066 TnC", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-007", "text": "what do I need to do to cancel purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "dev"}
+{"id": "human_agent-019", "text": "you aren't helpful at all, talk to an operator", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "account-035", "text": "want assistance canceling the standard account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "human_agent-001", "text": "can I check at what time I can reach customer support?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "spam-030", "text": "all the lastest from Stereophonics, Marley, Dizzee Racal, Libertines and The Strokes! Win Nookii games with Flirt!! Click TheMob WAP Bookmark or text WAP to 82468", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "human_agent-089", "text": "need help speaking with a operator", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-044", "text": "I need to order a product, how do I do it?", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "billing-027", "text": "I do not know what to do to check the termination fees", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "dev"}
+{"id": "orders-083", "text": "I have to edit the address, I need assistance", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "human_agent-036", "text": "I cannot understand you, I have to contact a person", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-053", "text": "where could I edit the address?", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "human_agent-005", "text": "I need help speaking to somebody", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "human_agent-022", "text": "i have to check at what time custmer support available is", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "other-023", "text": "Sorry da thangam.it's my mistake.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "other-070", "text": "The fact that you're cleaning shows you know why i'm upset. Your priority is constantly \"what i want to do,\" not \"what i need to do.\"", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-011", "text": "Sorry, left phone upstairs. OK, might be hectic but would be all my birds with one fell swoop. It's a date.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "human_agent-073", "text": "could you show me what hours I can contact customer support?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-020", "text": "URGENT, IMPORTANT INFORMATION FOR O2 USER. TODAY IS YOUR LUCKY DAY! 2 FIND OUT WHY LOG ONTO HTTP://WWW.URAWINNER.COM THERE IS A FANTASTIC SURPRISE AWAITING FOR YOU", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-074", "text": "I would like to report fucking errors with payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "account-044", "text": "new {{Account Type}} acount for wife", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "human_agent-015", "text": "helpme speaking with somebody", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "human_agent-071", "text": "how to speak with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "other-027", "text": "Ü thk of wat to eat tonight.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "account-036", "text": "assistance signing up", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "account-098", "text": "I try to cancel the subscription to the corporate newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "feedback-036", "text": "is there a e-mail to send my feedback for your products?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "feedback-057", "text": "I want assistance leaving some feedback for your services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-013", "text": "I have to contact customer support, I need assistnace", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "account-025", "text": "I cannot reset the key of my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "human_agent-047", "text": "help me seeing what hours I can contact customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "billing-091", "text": "want assistance to notify of an erro with payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "test"}
+{"id": "account-086", "text": "i have a question about the deletion of a {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "human_agent-043", "text": "I need to chat with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "account-001", "text": "i cannot subscribe to the newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "dev"}
+{"id": "billing-024", "text": "send me bills from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "dev"}
+{"id": "spam-089", "text": "U have a secret admirer who is looking 2 make contact with U-find out who they R*reveal who thinks UR so special-call on 09058094594", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-043", "text": "how to send some feedback for a service?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "account-062", "text": "i have got to modify the details on my account help me", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "other-040", "text": "Wewa is 130. Iriver 255. All 128 mb.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-084", "text": "I'm sorry. I've joined the league of people that dont keep in touch. You mean a great deal to me. You have been a friend at all times even at great personal cost. Do have a great week.|", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-010", "text": "500 free text msgs. Just text ok to 80488 and we'll credit your account", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-003", "text": "get bills from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "dev"}
+{"id": "spam-044", "text": "HOT LIVE FANTASIES call now 08707509020 Just 20p per min NTT Ltd, PO Box 1327 Croydon CR9 5WB 0870 is a national rate call", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-094", "text": "can you help me cancelling order {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "spam-068", "text": "Want explicit SEX in 30 secs? Ring 02073162414 now! Costs 20p/min Gsex POBOX 2667 WC1N 3XX", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-003", "text": "Thank you so much. When we skyped wit kz and sura, we didnt get the pleasure of your company. Hope you are good. We've given you ultimatum oh! We are countin down to aburo. Enjoy! This is the message i sent days ago", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-072", "text": "uhave an adress to submit feedback about ur products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "orders-011", "text": "there is a problem correcting the delivery address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "human_agent-010", "text": "I want assistance talking with customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "feedback-012", "text": "I don't know how I can leave feedback for your company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "human_agent-020", "text": "I want assistance to call customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "human_agent-031", "text": "uhave a free phone number to talk to customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "feedback-062", "text": "I do not know how I can file a claim against your business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-091", "text": "I want to lodge a reclamation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-033", "text": "I expect an reimbursement of {{Currency Symbol}}{{Refund Amount}}", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "feedback-068", "text": "I try to leave some feedback about  a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "billing-098", "text": "want asistance to download the bill #85632", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "spam-060", "text": "**FREE MESSAGE**Thanks for using the Auction Subscription Service. 18 . 150p/MSGRCVD 2 Skip an Auction txt OUT. 2 Unsubscribe txt STOP CustomerCare 08718726270", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-033", "text": "do you have a section to leave a comment for your company?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "orders-003", "text": "I submitted a wrong shipping address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "other-055", "text": "Motivate Behind every darkness, there is a shining light waiting for you to find it... Behind every best friend, there is always trust and love... BSLVYL", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-028", "text": "where to check the termination fee", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "dev"}
+{"id": "feedback-001", "text": "can you help me leave my feedback about your products?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "account-076", "text": "give me information about the deletion of a gold account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "orders-061", "text": "could ya help me set a new shipping address up", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "other-099", "text": "Is ur lecture over?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-066", "text": "can I check at what time I can call customer service?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-075", "text": "SMS AUCTION - A BRAND NEW Nokia 7250 is up 4 auction today! Auction is FREE 2 join & take part! Txt NOKIA to 86021 now! HG/Suite342/2Lands Row/W1J6HL", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-076", "text": "i cannot find anything about the early termination charges", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "orders-084", "text": "I am looking for information about correcting the address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "billing-036", "text": "help to ask for a rebate of my money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "other-059", "text": "Ok thanx...", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "other-063", "text": "Hi, wkend ok but journey terrible. Wk not good as have huge back log of marking to do", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-071", "text": "Free msg. Sorry, a service you ordered from 81303 could not be delivered as you do not have sufficient credit. Please top up to receive the service.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-096", "text": "where could I lodge a consumer claim?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-050", "text": "where  do i check the withdrawal penalties", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "human_agent-009", "text": "tell me what hours i can contact customer sasistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "spam-051", "text": "todays vodafone numbers ending with 0089(my last four digits) are selected to received a £350 award. If your number matches please call 09063442151 to claim your £350 award", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-066", "text": "o turns out i had stereo love on mi phone under the unknown album.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-003", "text": "helplodging a consumer reclamation against ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "human_agent-086", "text": "uare not helpful could uhelp me talk to a damn agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-021", "text": "UR awarded a City Break and could WIN a £200 Summer Shopping spree every WK. Txt STORE to 88039.SkilGme.TsCs087147403231Winawk!Age16+£1.50perWKsub", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "account-038", "text": "I don't know how I can subscribe to the company newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "human_agent-058", "text": "I need to call goddamn customer support, help me", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "feedback-060", "text": "i have to write a comment for a service how can i do it", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "feedback-042", "text": "I want help to leave some goddamn feedback for a service", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-016", "text": "You have been specially selected to receive a 2000 pound award! Call 08712402050 BEFORE the lines close. Cost 10ppm. 16+. T&Cs apply. AG Promo", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-055", "text": "You are a £1000 winner or Guaranteed Caller Prize, this is our Final attempt to contact you! To Claim Call 09071517866 Now! 150ppmPOBox10183BhamB64XE", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-007", "text": "need assistance to request rebates of my money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "dev"}
+{"id": "human_agent-000", "text": "I do not know what I have to dp to chat with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "billing-046", "text": "I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want to obtain a fucking rebate", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "account-097", "text": "I do not know what I have to do to close my {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "billing-021", "text": "I want help giving a quick look at my bill from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "dev"}
+{"id": "billing-095", "text": "can you help me seeing the invoices from {{Person Name}}?", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "account-068", "text": "assistance changing to the freemium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "other-028", "text": "I send the print  outs da.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-027", "text": "FREE entry into our £250 weekly competition just text the word WIN to 80086 NOW. 18 T&C www.txttowin.co.uk", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "feedback-061", "text": "help me filing a reclamation against your company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-093", "text": "can youshow me what hours I can contact customer support?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-085", "text": "Thanks for your subscription to Ringtone UK your mobile will be charged £5/month Please confirm by replying YES or NO. If you reply NO you will not be charged", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-008", "text": "I want assistance to lodge a complaint against your business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "account-092", "text": "I want help to recover my damn user profile key", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "human_agent-002", "text": "i have to speak ot customer support how could i do it", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "spam-083", "text": "Congrats! 2 mobile 3G Videophones R yours. call 09061744553 now! videochat wid ur mates, play java games, Dload polyH music, noline rentl. bx420. ip4. 5we. 150pm", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-043", "text": "is it possible to switch to the {{Account Category}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "other-006", "text": "Have a good evening! Ttyl", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "billing-008", "text": "wanna notify of goddamn errors with online payment", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "dev"}
+{"id": "human_agent-011", "text": "can you help me speaking with an assistant?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "human_agent-007", "text": "I don't know what to do to speak with customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "orders-059", "text": "help to see how long it takes for the delivery to arrive", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "spam-046", "text": "<Forwarded from 88877>FREE entry into our £250 weekly comp just send the word ENTER to 88877 NOW. 18 T&C www.textcomp.com", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "human_agent-055", "text": "what do I need to do to talk to customer assistance?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "orders-036", "text": "can I order from {{Delivery City}}?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "human_agent-095", "text": "i want help speaking to somebody", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "account-041", "text": "how can I find information about a {{Account Type}} account termination?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "account-013", "text": "can you help me to use the pro profile?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "orders-006", "text": "i have a issue entering my secondary delivery address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "account-061", "text": "I have to notify of an issue with sign-up", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "orders-056", "text": "where do I check what damn shipment options are available?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "human_agent-028", "text": "I want assistance to talk with an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "orders-035", "text": "i do not knlw how to enter my secondary shipping address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "billing-049", "text": "I have to check if there is anything new on the restitution", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "account-016", "text": "updaing info on standard account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "dev"}
+{"id": "other-007", "text": "Oh god i am happy to see your message after 3 days", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "account-019", "text": "I want information about opening a standard account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "dev"}
+{"id": "other-057", "text": "No:-)i got rumour that you going to buy apartment in chennai:-)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-087", "text": "see order {{Order Number}} current status", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "account-077", "text": "modify {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "orders-064", "text": "can uhelp me cancelling purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "account-099", "text": "i have a problem with the cancellation of a freemium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "billing-047", "text": "I cannot find my invoices from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "feedback-081", "text": "i do not know how i can leave my feedback for a service", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "orders-029", "text": "can you help me locating order {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "dev"}
+{"id": "other-079", "text": "Why are u up so early?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-019", "text": "I don't know how I could locate the bill #12588", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "dev"}
+{"id": "account-005", "text": "I want assistance to change to the {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "human_agent-069", "text": "help me speaking to an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-040", "text": "<Forwarded from 21870000>Hi - this is your Mailbox Messaging SMS alert. You have 4 messages. You have 21 matches. Please call back on 09056242159 to retrieve your messages and matches", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-051", "text": "I need to shop several of your article", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "account-088", "text": "i have to use the premium account how todo it", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "other-029", "text": "1 in cbe. 2 in chennai.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-091", "text": "Adult 18 Content Your video will be with you shortly", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-032", "text": "A bloo bloo bloo I'll miss the first bowl", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-093", "text": "I do not know how to submit the new shipping address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "billing-022", "text": "seed under which circumstances can I ask for a refund", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "dev"}
+{"id": "human_agent-061", "text": "I have to contact customer service, how can I do it?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "spam-009", "text": "Email AlertFrom: Jeri StewartSize: 2KBSubject: Low-cost prescripiton drvgsTo listen to email call 123", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-018", "text": "notify of fucking payment issues", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "dev"}
+{"id": "feedback-040", "text": "do you have a e-mail to leave feedback about your services?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-058", "text": "You are a winner you have been specially selected to receive £1000 cash or a £2000 award. Speak to a live operator to claim call 087123002209am-7pm. Cost 10p", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-051", "text": "I would like to create a pro account, how do I do it?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "orders-081", "text": "i want help canceling order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "human_agent-087", "text": "what do I have to do to contact a person?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "spam-057", "text": "This is the 2nd attempt to contract U, you have won this weeks top prize of either £1000 cash or £200 prize. Just call 09066361921", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-085", "text": "help to update the information included on my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "spam-017", "text": "U have a secret admirer. REVEAL who thinks U R So special. Call 09065174042. To opt out Reply REVEAL STOP. 1.50 per msg recd. Cust care 07821230901", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-025", "text": "our mobile number has won £5000, to claim calls us back or ring the claims hot line on 09050005321.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-036", "text": "Thanks for your ringtone order, ref number R836. Your mobile will be charged £4.50. Should your tone not arrive please call customer services on 09065069154", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-070", "text": "want assistance informing of problems with a registration", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "spam-080", "text": "England v Macedonia - dont miss the goals/team news. Txt ur national team to 87077 eg ENGLAND to 87077 Try:WALES, SCOTLAND 4txt/ú1.20 POBOXox36504W45WQ 16+", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-038", "text": "Send a logo 2 ur lover - 2 names joined by a heart. Txt LOVE NAME1 NAME2 MOBNO eg LOVE ADAM EVE 07123456789 to 87077 Yahoo! POBox36504W45WQ TxtNO 4 no ads 150p.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-028", "text": "what do I need to do to write an opinion for your products?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "feedback-092", "text": "is there a section to submit some feedback for ur products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-033", "text": "I don't know what I have to do to talk to customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "other-049", "text": "I'm done. C ü there.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-063", "text": "i want help to file a customer complaint against ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "orders-038", "text": "is it possible to place an order from {{Delivery City}}", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "account-011", "text": "what do I have to do to restore my user account key?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "account-060", "text": "need help to use the {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "feedback-032", "text": "where can i file a customer complaint agaist ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-091", "text": "help me to talk with customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-009", "text": "information about receiving ur newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "dev"}
+{"id": "billing-055", "text": "I have to check the restitution status, how can I do it?", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "human_agent-081", "text": "help me speaking with a goddamn agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-097", "text": "I do not know how I could get a fucking rebate of my money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "account-039", "text": "I try to receive your newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "feedback-016", "text": "can you help me sending my feedback for your services?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "billing-040", "text": "i expect a reimbursement of {{Currency Symbol}}{{Refund Amount}}", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "billing-064", "text": "awnna see in what cases can i request reimbursements", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "orders-073", "text": "help me cancel purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "human_agent-077", "text": "help me check at what time i can contact cuswtomer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "other-050", "text": "Sac will score big hundred.he is set batsman:-)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-099", "text": "I need help submitting some feedback about a product", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-012", "text": "what do I have to do to speak with a damn operator?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "dev"}
+{"id": "other-060", "text": "Send me your id and password", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-014", "text": "can I swap something of order {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "dev"}
+{"id": "feedback-041", "text": "I ain't happy with your work, file a consumer claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-094", "text": "needhelp submitting some feedback", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-081", "text": "Dont forget you can place as many FREE Requests with 1stchoice.co.uk as you wish. For more Information call 08707808226.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-057", "text": "is it possible to demand refunds of my money?", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "human_agent-054", "text": "I do not know what to do to call customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "orders-077", "text": "how to cancel purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "feedback-017", "text": "lodging customer complaint against your company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "account-057", "text": "open {{Account Category}} account for wife", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "spam-076", "text": "FREE NOKIA Or Motorola with upto 12mths 1/2price linerental, 500 FREE x-net mins&100txt/mth FREE B'tooth*. Call Mobileupd8 on 08001950382 or call 2optout/D3WV", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-013", "text": "You are awarded a SiPix Digital Camera! call 09061221061 from landline. Delivery within 28days. T Cs Box177. M221BP. 2yr warranty. 150ppm. 16 . p p£3.99", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "spam-022", "text": "Thanks for your Ringtone Order, Reference T91. You will be charged GBP 4 per week. You can unsubscribe at anytime by calling customer services on 09057039994", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "other-080", "text": "Sometimes we put walls around our hearts,not just to be safe from getting hurt.. But to find out who cares enough to break the walls &amp; get closer.. GOODNOON:)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-009", "text": "what do i have to do to make a consumer compoaint", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-085", "text": "where to check the current status of order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "feedback-051", "text": "assistance to file a claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "other-062", "text": "Joy's father is John. Then John is the ____ of Joy's father. If u ans ths you hav  &lt;#&gt;  IQ. Tis s IAS question try to answer.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-048", "text": "is it possible to swap an item of purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "other-014", "text": "Call to the number which is available in appointment. And ask to connect the call to waheed fathima.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "orders-009", "text": "where do I see what shipping options I have?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "dev"}
+{"id": "feedback-039", "text": "how to file a consumer claim against your company?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-074", "text": "is there a method to leave a comment for your products?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "human_agent-041", "text": "I try to speak to an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-060", "text": "help to check the status of my compensation", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "test"}
+{"id": "other-082", "text": "Aight yo, dats straight dogg", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-005", "text": "Txt: CALL to No: 86888 & claim your reward of 3 hours talk time to use from your phone now! Subscribe6GBP/mnth inc 3hrs 16 stop?txtStop www.gamb.tv", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "billing-093", "text": "I do not know how I can look for the invoice #37777", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "feedback-022", "text": "hlp to submit feedback for ur products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "billing-005", "text": "ido not know what i need to do to get the invoice #12588", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "dev"}
+{"id": "orders-091", "text": "i dont know how to check ther status of purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "spam-094", "text": "Win a £1000 cash prize or a prize worth £5000", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-008", "text": "I know she called me", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "other-091", "text": "I hope your alright babe? I worry that you might have felt a bit desparate when you learned the job was a fake ? I am here waiting when you come back, my love", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-048", "text": "update information on premium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "other-034", "text": "You are gorgeous! keep those pix cumming :) thank you!", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-034", "text": "Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-073", "text": "I have a problem wth the removal of my {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "other-053", "text": "Dear,shall mail tonite.busy in the street,shall update you tonite.things are looking ok.varunnathu edukkukayee raksha ollu.but a good one in real sense.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-002", "text": "wanna inform of errors with online payment can uhelp me", "label": "billing", "source": "bitext", "source_label": "PAYMENT/payment_issue", "split": "dev"}
+{"id": "other-015", "text": "Haf u found him? I feel so stupid da v cam was working.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-035", "text": "I call to make a customer claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "account-003", "text": "wanna change  to the freemium account help me", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "billing-029", "text": "how to track the reimbursement?", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "dev"}
+{"id": "orders-020", "text": "how do I edit order {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "dev"}
+{"id": "billing-078", "text": "I want to look for the invoice #12588", "label": "billing", "source": "bitext", "source_label": "INVOICE/check_invoice", "split": "test"}
+{"id": "orders-058", "text": "can I check order {{Order Number}} current status?", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "feedback-015", "text": "review for your company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "spam-032", "text": "Sppok up ur mob with a Halloween collection of nokia logo&pic message plus a FREE eerie tone, txt CARD SPOOK to 8007", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-087", "text": "u r a winner U ave been specially selected 2 receive £1000 cash or a 4* holiday (flights inc) speak to a live operator 2 claim 0871277810710p/min (18 )", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-014", "text": "New TEXTBUDDY Chat 2 horny guys in ur area 4 just 25p Free 2 receive Search postcode or at gaytextbuddy.com. TXT ONE name to 89693. 08715500022 rpl Stop 2 cnl", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "dev"}
+{"id": "feedback-013", "text": "where to lodge a consumer reclamation against ur company", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "billing-067", "text": "where to check  the termination fee?", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "human_agent-057", "text": "I do not understand you, direct to me a human agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "billing-010", "text": "assistance seeing ur available payment options", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "dev"}
+{"id": "orders-039", "text": "need assistance seeing what delivery options are there", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "test"}
+{"id": "orders-000", "text": "tracking order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "dev"}
+{"id": "feedback-026", "text": "assistance to lodge a complaint against your business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-004", "text": "is it possible to order from {{Delivery Country}}?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_options", "split": "dev"}
+{"id": "spam-099", "text": "Double Mins & Double Txt & 1/2 price Linerental on Latest Orange Bluetooth mobiles. Call MobileUpd8 for the very latest offers. 08000839402 or call2optout/LF56", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-000", "text": "can you help me seeing the accepted payment options?", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "dev"}
+{"id": "feedback-065", "text": "help me lodge a consumer claim", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "other-075", "text": "Y ü wan to go there? C doctor?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-010", "text": "help filing a customer claim against your organization", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "feedback-025", "text": "lodge reclamtaion against ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "orders-097", "text": "canceling purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "billing-075", "text": "I would like to see in which cases can I request a refund", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "orders-072", "text": "support updating my address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "test"}
+{"id": "other-095", "text": "Talk to g and x about that", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "billing-083", "text": "I do not know how I can check your allowed payment options", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "billing-099", "text": "i need assistance to check the early terminaion charge", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "billing-017", "text": "I can't find the cancellation penalty, can you help me?", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "dev"}
+{"id": "spam-035", "text": "TheMob>Hit the link to get a premium Pink Panther game, the new no. 1 from Sugababes, a crazy Zebra animation or a badass Hoody wallpaper-all 4 FREE!", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-012", "text": "Ryder unsold.now gibbs.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "spam-052", "text": "LIFE has never been this much fun and great until you came in. You made it truly special for me. I won't forget you! enjoy @ one gbp/sms", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-042", "text": "need help to obtain my money back", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "billing-045", "text": "need to obtain restitutions of money", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "billing-030", "text": "is it possible to download invoice #00108", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "account-094", "text": "could ya help me infofming of a sign-up issue", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "account-032", "text": "I don't know what to do to create a standard account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "other-078", "text": "No pic. Please re-send.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "spam-082", "text": "T-Mobile customer you may now claim your FREE CAMERA PHONE upgrade & a pay & go sim card for your loyalty. Call on 0845 021 3680.Offer ends 28thFeb.T&C's apply", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "spam-031", "text": "Panasonic & BluetoothHdset FREE. Nokia FREE. Motorola FREE & DoubleMins & DoubleTxt on Orange contract. Call MobileUpd8 on 08000839402 or call 2optout", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "other-077", "text": "\"Getting tickets 4 walsall tue 6 th march. My mate is getting me them on sat. ill pay my treat. Want 2 go. Txt bak .Terry\"", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "orders-025", "text": "can you help me to correct  the shipping address?", "label": "orders", "source": "bitext", "source_label": "SHIPPING/change_shipping_address", "split": "dev"}
+{"id": "account-074", "text": "delete freemium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "test"}
+{"id": "feedback-047", "text": "is it possible to file a customer complaint?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-025", "text": "I expect a refund of {{Currency Symbol}}{{Refund Amount}}, has it been processed?", "label": "billing", "source": "bitext", "source_label": "REFUND/track_refund", "split": "dev"}
+{"id": "feedback-029", "text": "i try to leave some feedback about a service", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "dev"}
+{"id": "account-024", "text": "I try to restore the access key of my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "dev"}
+{"id": "other-092", "text": "I cant keep talking to people if am not sure i can pay them if they agree to price. So pls tell me what you want to really buy and how much you are willing to pay", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-020", "text": "I ain't happy with your work, I need to make a reclamation", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "human_agent-099", "text": "I don't know how to chat with an operator", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "orders-005", "text": "how could I cancel purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "dev"}
+{"id": "spam-072", "text": "YOU 07801543489 are guaranteed the latests Nokia Phone, a 40GB iPod MP3 player or a £500 prize! Txt word:COLLECT to No:83355! TC-LLC NY-USA 150p/Mt msgrcvd18+", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-032", "text": "i have to check in what cases can i ask for reimbursements", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "orders-069", "text": "I have issues entering a secondary delivery address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "billing-004", "text": "I don't know what I have to do to download the bill #37777", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "dev"}
+{"id": "spam-098", "text": "Natalja (25/F) is inviting you to be her friend. Reply YES-440 or NO-440 See her: www.SMS.ac/u/nat27081980 STOP? Send STOP FRND to 62468", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-075", "text": "i dont know how i can leave feedback for ur products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-090", "text": "Valentines Day Special! Win over £1000 in our quiz and take your partner on the trip of a lifetime! Send GO to 83600 now. 150p/msg rcvd. CustCare:08718720201", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-001", "text": "get invoice #37777", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "dev"}
+{"id": "orders-019", "text": "how can I check how soon can I expect the parcel?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "dev"}
+{"id": "account-087", "text": "how can I get information about a lost access key?", "label": "account", "source": "bitext", "source_label": "ACCOUNT/recover_password", "split": "test"}
+{"id": "spam-039", "text": "Urgent -call 09066649731from Landline. Your complimentary 4* Ibiza Holiday or £10,000 cash await collection SAE T&Cs PO BOX 434 SK3 8WP 150ppm 18+", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "account-080", "text": "want assistance opening a platinum account for my dad", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "orders-010", "text": "I have to shop several articles", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "dev"}
+{"id": "feedback-004", "text": "how to file an reclamation?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "dev"}
+{"id": "feedback-089", "text": "I want to send feedback about your company, how to do it?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-065", "text": "You are a winner U have been specially selected 2 receive £1000 cash or a 4* holiday (flights inc) speak to a live operator 2 claim 0871277810810", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-066", "text": "assistance to check how long it takes for my item to arrive", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "test"}
+{"id": "feedback-044", "text": "help me submitting some feedback for your products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "spam-067", "text": "Sorry I missed your call let's talk when you have the time. I'm on 07090201529", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-058", "text": "need help checking in what cases can i request a refund", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "human_agent-051", "text": "I am trying to get in touch with customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "feedback-084", "text": "help me file a reclamation against your organization", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "billing-082", "text": "check in which situations can I ask for refunds", "label": "billing", "source": "bitext", "source_label": "REFUND/check_refund_policy", "split": "test"}
+{"id": "other-061", "text": "You will be in the place of that man", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-030", "text": "changing information on premium account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "orders-023", "text": "i have issues submitting another shipping address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "dev"}
+{"id": "billing-063", "text": "what are your allowed payment modalities?", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "test"}
+{"id": "spam-054", "text": "WOW! The Boys R Back. TAKE THAT 2007 UK Tour. Win VIP Tickets & pre-book with VIP Club. Txt CLUB to 81303. Trackmarque Ltd info@vipclub4u.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "orders-095", "text": "acn you help me changing something of purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "test"}
+{"id": "orders-049", "text": "where can I earn some articles?", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "account-055", "text": "tell me about cancel the newsletter subscription", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "human_agent-063", "text": "can you help me contact osmeone?", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "account-069", "text": "I am trying to unsubscribe to the newsletter", "label": "account", "source": "bitext", "source_label": "SUBSCRIPTION/newsletter_subscription", "split": "test"}
+{"id": "billing-039", "text": "need assistance to get my bills frlm {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "orders-098", "text": "need assistance to see the ETA of the purchase {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/track_order", "split": "test"}
+{"id": "account-053", "text": "I ain't registered, help opening a standard account with you", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "orders-079", "text": "how can i enter another shipipng address", "label": "orders", "source": "bitext", "source_label": "SHIPPING/set_up_shipping_address", "split": "test"}
+{"id": "orders-026", "text": "how to see how soon can I expect the article?", "label": "orders", "source": "bitext", "source_label": "DELIVERY/delivery_period", "split": "dev"}
+{"id": "other-033", "text": "Mmm thats better now i got a roast down me! id b better if i had a few drinks down me 2! Good indian?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "feedback-087", "text": "how do i lodge a consumer complaint", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "feedback-093", "text": "help me to  lodge a customer claim against ur organization", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-048", "text": "need to call customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-021", "text": "i dont know what to do to change to the {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "spam-093", "text": "Your next amazing xxx PICSFREE1 video will be sent to you enjoy! If one vid is not enough for 2day text back the keyword PICSFREE1 to get the next video.", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "feedback-082", "text": "i need assistance making a consumer claim aginst ur business", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/complaint", "split": "test"}
+{"id": "human_agent-084", "text": "I need help to see what hours I can call customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "account-028", "text": "problem with standard account deletions", "label": "account", "source": "bitext", "source_label": "ACCOUNT/delete_account", "split": "dev"}
+{"id": "account-047", "text": "help me create a {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/create_account", "split": "test"}
+{"id": "orders-017", "text": "I can't add an item to order {{Order Number}}", "label": "orders", "source": "bitext", "source_label": "ORDER/change_order", "split": "dev"}
+{"id": "billing-085", "text": "help me demanding a rebate", "label": "billing", "source": "bitext", "source_label": "REFUND/get_refund", "split": "test"}
+{"id": "other-076", "text": "I love u 2 babe! R u sure everything is alrite. Is he being an idiot? Txt bak girlie", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-075", "text": "wanna switch to the platinum accoun", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "test"}
+{"id": "other-010", "text": "Should i buy him a blackberry bold 2 or torch. Should i buy him new or used. Let me know. Plus are you saying i should buy the  &lt;#&gt; g wifi ipad. And what are you saying about the about the  &lt;#&gt; g?", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "account-079", "text": "i have got to update the info included on my account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "account-059", "text": "need to edit the info included on my user profile help me", "label": "account", "source": "bitext", "source_label": "ACCOUNT/edit_account", "split": "test"}
+{"id": "feedback-098", "text": "can you help me to submit feedback for your company?", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "orders-041", "text": "where do I cancel purchase {{Order Number}}?", "label": "orders", "source": "bitext", "source_label": "ORDER/cancel_order", "split": "test"}
+{"id": "billing-052", "text": "i do not know how to see the cancellation penalty", "label": "billing", "source": "bitext", "source_label": "CANCEL/check_cancellation_fee", "split": "test"}
+{"id": "orders-088", "text": "can ya help me shop several of ur product", "label": "orders", "source": "bitext", "source_label": "ORDER/place_order", "split": "test"}
+{"id": "account-017", "text": "report erroprs with sign-up", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "dev"}
+{"id": "account-034", "text": "I don't know how I can inform of problems with sign-up", "label": "account", "source": "bitext", "source_label": "ACCOUNT/registration_problems", "split": "test"}
+{"id": "spam-042", "text": "Urgent! call 09066350750 from your landline. Your complimentary 4* Ibiza Holiday or 10,000 cash await collection SAE T&Cs PO BOX 434 SK3 8WP 150 ppm 18+", "label": "spam", "source": "sms_spam", "source_label": "spam", "split": "test"}
+{"id": "billing-044", "text": "i dont know how to gt the invoices from {{Person Name}}", "label": "billing", "source": "bitext", "source_label": "INVOICE/get_invoice", "split": "test"}
+{"id": "other-081", "text": "No no:)this is kallis home ground.amla home town is durban:)", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-075", "text": "i dont know what i have to do to talk to an assistant", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "other-038", "text": "What i mean was i left too early to check, cos i'm working a 9-6.", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "account-018", "text": "i need assistance changing to the {{Account Type}} account", "label": "account", "source": "bitext", "source_label": "ACCOUNT/switch_account", "split": "dev"}
+{"id": "billing-012", "text": "where can i check the allowed payment modalities", "label": "billing", "source": "bitext", "source_label": "PAYMENT/check_payment_methods", "split": "dev"}
+{"id": "other-026", "text": "Sorry da..today i wont come to play..i have driving clas..", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "dev"}
+{"id": "feedback-070", "text": "help submitting some feedback for ur products", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "other-043", "text": "Then why you not responding", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
+{"id": "human_agent-040", "text": "want help seeing what hours ik can call customer service", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-003", "text": "check whatr hours I can call customer support", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "dev"}
+{"id": "human_agent-039", "text": "help to see what hours i can reach customer assistance", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_customer_service", "split": "test"}
+{"id": "human_agent-053", "text": "need help speaking with an agent", "label": "human_agent", "source": "bitext", "source_label": "CONTACT/contact_human_agent", "split": "test"}
+{"id": "feedback-030", "text": "need  assistance to send feedback about your services", "label": "feedback", "source": "bitext", "source_label": "FEEDBACK/review", "split": "test"}
+{"id": "other-089", "text": "Noice. Text me when you're here", "label": "other", "source": "sms_spam", "source_label": "ham", "split": "test"}
