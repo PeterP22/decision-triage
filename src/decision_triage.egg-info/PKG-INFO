@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: decision-triage
+Version: 0.1.0
+Summary: Confidence-gated inbox triage: OpenAI Decisions API vs Responses API baselines
+License-Expression: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openai>=3.26
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Provides-Extra: data
+Requires-Dist: datasets; extra == "data"
+Dynamic: license-file
+
+# decision-triage
+
+Confidence-gated inbox triage on the OpenAI Decisions API, evaluated against a Responses API baseline.

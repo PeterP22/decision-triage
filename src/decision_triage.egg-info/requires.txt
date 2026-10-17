@@ -1,0 +1,10 @@
+openai>=3.26
+numpy
+matplotlib
+
+[data]
+datasets
+
+[dev]
+pytest
+ruff
