@@ -17,3 +17,4 @@ jobs:
       - run: ruff check .
       - run: python -m pytest -q
       - run: python scripts/render_readme.py --check
+      - run: python scripts/verify.py
